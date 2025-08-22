@@ -4,7 +4,7 @@
 <p>💻 Software Developer
 <p>🎓 Software Engineering student
 <p>📍 Living in Ponte Nova, Brazil</p>
-<p>🔧 improving about Eng Software,Web Development, Data & AI</p>
+<p>🔧 improving about Eng Software,Software Developer & AI</p>
 <p>🌍 English Level: B1 (Intermediate)</p>
 <hr>
 
