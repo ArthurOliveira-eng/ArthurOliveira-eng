@@ -8,4 +8,4 @@
 <p>🌍 English Level: B1 (Intermediate)</p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,spring,py,angular,c#,go,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,spring,py,angular,cs,go,mysql,)](https://skillicons.dev)
