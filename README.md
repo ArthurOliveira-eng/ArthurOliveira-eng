@@ -1,7 +1,7 @@
 <code>"Welcome to my github! 👍"</code>
 <hr>
 
-<p>💻 Software Developer
+<p>💻 Software Development
 <p>🎓 Software Engineering student
 <p>📍 Living in Ponte Nova, Brazil</p>
 <p>🔧 improving about Web development, Software Developer & AI</p>
