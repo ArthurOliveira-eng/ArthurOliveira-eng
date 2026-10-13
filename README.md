@@ -1,7 +1,7 @@
 <code>"Welcome to my github! 🤙"</code>
 <hr>
 
-<p>💻 Software Engineer
+<p>💻 Software Developer
 <p>🎓 Computer Science student
 <p>🔧 Back End Development</p>
 <p>🌍 English Level: B2 (Upper Intermediate)</p>
